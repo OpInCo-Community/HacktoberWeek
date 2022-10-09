@@ -10,21 +10,20 @@ export default function Hacktoberfest() {
     <>
       <div className="container py-4 -mx-6 w-full flex flex-col">
         {/* hacktoberfest logo */}
-        <div className="grid gap-x-6 gap-y-6 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 xs:grid-cols-1 justify-center">
-          <span className="grid m-5">
+        <div className="flex flex-col lg:flex-row gap-8 justify-center items-center">
+          <span className="flex max-w-xs m-5">
             <Image
               src={announcement}
-              layout="responsive"
+              //   layout="responsive"
               objectFit="contain"
-              w-auto
               className="sm:rounded-3xl "
               alt="Hacktoberfest Official Logo"
             />
           </span>
-          <span className="grid announcement_content">
-            <div className="flex justify-center align-center items-center flex-col">
-              <div className="flex flex-col max-w-xl mt-7">
-                <h1 className="lg:text-6xl md:text-5xl sm:text-5xl xs:text-5xl xxs:text-5xl text-4xl leading-snug font-bold">
+          <span className="grid px-4 my-4">
+            <div className="flex text-center justify-center align-center items-center flex-col">
+              <div className="flex items-center px-3 flex-col max-w-xl mt-7">
+                <h1 className="lg:text-6xl text-center md:text-5xl sm:text-5xl xs:text-5xl xxs:text-5xl text-4xl leading-snug font-bold">
                   HacktoberWeek
                 </h1>
                 <h3 className="text-xl mt-7">
@@ -59,7 +58,7 @@ export default function Hacktoberfest() {
         {/* hacktoberfest logo */}
 
         {/* contributing steps */}
-        {/* <div className="flex items-center justify-center contributing-heading">
+        {/* <div className="flex items-center justify-center mx-8 my-12">
             <h1 className="text-5xl leading-snug font-bold ">But How to contribute to Open Source?</h1>
         </div>
         <div className="all-steps">
@@ -105,7 +104,7 @@ export default function Hacktoberfest() {
         {/* contributing steps */}
 
         {/* projects title*/}
-        {/* <div className="flex items-center justify-center contributing-heading">
+        {/* <div className="flex items-center justify-center mx-8 my-12">
             <h1 className="text-5xl leading-snug font-bold ">Projects</h1>
         </div> */}
       </div>
