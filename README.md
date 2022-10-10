@@ -14,11 +14,11 @@ We welcome all, regardless of gender or background, and not only aim to develop 
 Opensource is a vast domain and starting out for the first time may be overwhelming, so we will try to cater to each part of it by delivering the concepts more simply and inviting the contributors of the fields that will help the audience to contribute and know the tools. There will always be an additional edge to this because the active contributors play a crucial role in any project and their experiences will undoubtedly give a good kickstart to the enthusiasts!
 
 ### **Domains included:**
-- Web Contributions
-- Technical Documentation
-- Android
-- Design Contributions
-- Advocacy
+- [Web Contributions](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/hacktoberweek-page)
+- [Technical Documentation](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/Technical-Documentaion)
+- [Android](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/Android-Contributions)
+- [Design Contributions](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/Design-Contributions) 
+- [Advocacy](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/Advocacy-Contributions)
 
 ## **Contributing Guidelines**
 
@@ -36,9 +36,3 @@ Make sure that you -
 [![linkedIn-opinco](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/company/opincocommunity/)
 [![youtube-opinco](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/c/OpInCoCommunity)
 
-
-
-## Contributors:
-<a href = "https://github.com/OpInCo-Community/HacktoberWeek/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=OpInCo-Community/HacktoberWeek"/>
-</a>
