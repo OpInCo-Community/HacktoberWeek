@@ -36,3 +36,7 @@ Make sure that you -
 [![linkedIn-opinco](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/company/opincocommunity/)
 [![youtube-opinco](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/c/OpInCoCommunity)
 
+## Contributors:
+<a href = "https://github.com/OpInCo-Community/HacktoberWeek/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=OpInCo-Community/HacktoberWeek"/>
+</a>
