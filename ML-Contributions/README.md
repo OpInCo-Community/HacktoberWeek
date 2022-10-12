@@ -12,15 +12,21 @@ A subset of machine learning is closely related to computational statistics, whi
 
 ### **INSTALL JupyterLab**
 You can Install JupyterLab using pip:
+
 `pip install jupyterlab`
+
 Once installed, launch JupyterLab with:
+
 `jupyter-lab`
 
 *Jupyter Notebook*
+
 Install the classic Jupyter Notebook with:
+
 `pip install notebook`
 
 To run the notebook:
+
 `jupyter notebook`
 <br/>
 <br/>
