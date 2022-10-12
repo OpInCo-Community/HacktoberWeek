@@ -18,6 +18,11 @@ It is requested of you that -
 ## Pre-requisite
 To build your application, install Android Studio from [here](https://developer.android.com/studio#downloads).
 
+### **INSTALL ANDROID STUDIO**
+You can Install Android Studio for free from [here](https://developer.android.com/studio).
+<br/>
+<br/>
+
 ## How to Contribute  
 **Installation Guide**
 
@@ -56,7 +61,6 @@ git remote add upstream https://github.com/HacktoberWeek/HacktoberWeek.git
 ### 5. Create a PR
 After you are done making all the requisite changes. Push your changes to the repository and create a good PR.
 To do so go through the [Contributing Guidelines](#contributing-guidelines)
-
 
 ## PR Review
 Your PR will get reviewed soon! If the maintainers suggest changes, do all the changes, commit the changes, rebase the branch, squash the commits and push the changes. If everything looks good, your PR will be merged.
