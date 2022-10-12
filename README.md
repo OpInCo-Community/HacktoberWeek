@@ -23,11 +23,15 @@ Opensource is a vast domain and starting out for the first time may be overwhelm
 ## **Contributing Guidelines**
 
 Make sure that you -
+
+<div align = "center">
+   <b>NOTE : Do not forget to star the repository.</b>
+</div>
+<br>
    
 1. Start working on the pull request if and only if you are assigned the complimentary issue.
 2. Create a good and valuable PR. Go through the [Code of Conduct](https://github.com/OpInCo-Community/HacktoberWeek/blob/main/CODE_OF_CONDUCT.md) and follow the templates to avoid spam.
 3. Make sure to go through [contributing.md](https://github.com/OpInCo-Community/HacktoberWeek/blob/main/CONTRIBUTING.md) before raising a PR.
-
 
 ## **Connect With Us**
 [![discord-opinco](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=Discord)](https://discord.gg/uG3KwXkgfG)
