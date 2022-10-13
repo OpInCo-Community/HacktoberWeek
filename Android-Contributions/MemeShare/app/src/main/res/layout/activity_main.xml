@@ -33,32 +33,34 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnNext"
-        android:layout_width="0dp"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:height="100dp"
         android:background="@drawable/circular_button"
-        android:backgroundTint="@color/teal_200"
+        android:backgroundTint="@null"
         android:padding="15dp"
         android:text="NEXT"
-        android:textSize="22sp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/guideline3"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnShare"
-        android:layout_width="0dp"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:layout_marginBottom="184dp"
         android:height="100dp"
-        android:padding="20dp"
+        android:textColor="@color/white"
         android:background="@drawable/circular_button"
+        android:backgroundTint="@null"
         android:text="SHARE"
-        android:textSize="22sp"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.157"
