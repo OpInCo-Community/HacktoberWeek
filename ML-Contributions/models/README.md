@@ -1,6 +1,5 @@
 # ML Contributions
 
-![ML Contributions]()
 [![first-timers](https://img.shields.io/badge/first--timers-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![PRs-welcome](https://img.shields.io/badge/PRs---welcome-green.svg?style=flat-square)
 
@@ -34,6 +33,7 @@ The pip ways is very easy:
 
  `pip install http://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-linux_x86_64.whl
  pip install fastai==1.0.61`
+ 
 Just make sure to pick the correct torch wheel url, according to the needed platform, python and CUDA version, which you will find here.
 
 #### *conda*
