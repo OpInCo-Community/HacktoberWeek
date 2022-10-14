@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: simple-image-download
+Version: 0.2
+Summary: Downloads raw page from google images and searches for images that can be downloaded
+Home-page: https://github.com/RiddlerQ/simple_image_download
+Author: Jakub Dobies
+Author-email: kuba.dobies@onet.pl
+License: MIT
+Download-URL: https://pypi.org/project/simple_image_download/
+Keywords: google images,image downloader
+Platform: UNKNOWN
+Requires-Dist: requests
+
+I will write README in about a week when i will have a time
+
+
