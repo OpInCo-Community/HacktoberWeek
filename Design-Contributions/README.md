@@ -22,7 +22,7 @@ The experienced speaker, [Atulya Singh](https://www.linkedin.com/in/atulyasingh2
 
 
 ### **Resources and where to contribute:**
-To ***get you started*** check these orgs out  for quality contirbutions as well as first time PRs!<br>
+To ***get you started*** check these orgs out  for quality contributions as well as first time PRs!<br>
 To spread awareness, everything from how to contribute with live contributions and lists of organisations & projects are covered.
 
 [OpInCo](https://github.com/OpInCo-Community) <br>
@@ -46,6 +46,8 @@ Make sure that you -
 2. Create a good and valid PR. Go through the [Code of Conduct](https://github.com/OpInCo-Community/HacktoberWeek/blob/main/CODE_OF_CONDUCT.md) and follow the templates to avoid spam.
 3. Start working on the pull request if and only if you are assigned the complimentary issue.
 4. Make sure to read the guidelines for contributing and contribute to the right segment, ie, **Contrbuting to Community Branding** or **Design contributions in Existing Projects**.
+5. If you are contributing to designs of OpInCo socials be sure to follow the Design Deck of OpInCo 
+![Design Board](https://github.com/OpInCo-Community/HacktoberWeek/blob/main/Design-Contributions/Opinco%20Rebranding/Design%20Board.png)
 
 
 
