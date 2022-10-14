@@ -1,0 +1,1 @@
+Make sure to follow [Code Of Conduct](https://github.com/OpInCo-Community/HacktoberWeek/blob/main/CODE_OF_CONDUCT.md) and [Community Guidline](https://github.com/OpInCo-Community/HacktoberWeek#contributing-guidelines)
