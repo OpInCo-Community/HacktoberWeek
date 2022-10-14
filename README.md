@@ -16,9 +16,11 @@ Opensource is a vast domain and starting out for the first time may be overwhelm
 ### **Domains included:**
 - [Web Contributions](https://github.com/OpInCo-Community/OpInCo-Page/tree/6a3699f2a4a8315d6ade38ff9cdae7878aebabac)
 - [Technical Documentation](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/Technical-Documentaion)
+- [ML Contributions](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/ML-Contributions)
 - [Android](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/Android-Contributions)
 - [Design Contributions](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/Design-Contributions) 
 - [Advocacy](https://github.com/OpInCo-Community/HacktoberWeek/tree/main/Advocacy-Contributions)
+
 
 ## **Contributing Guidelines**
 
