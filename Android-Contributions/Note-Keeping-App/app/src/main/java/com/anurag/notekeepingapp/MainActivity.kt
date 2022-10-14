@@ -32,9 +32,7 @@ class MainActivity : AppCompatActivity(), OnTapHandler {
     }
 
   override fun alertDialog(position: NoteEntity){
-
      val dialog = AlertDialog.Builder(this)
-
 
      dialog.setTitle(getString(R.string.alert_dialog_title))
      dialog.setIcon(R.drawable.ic_round_error_outline_24)
@@ -50,7 +48,6 @@ class MainActivity : AppCompatActivity(), OnTapHandler {
     val alertDialog : AlertDialog = dialog.create()
       alertDialog.setCancelable(false)
       alertDialog.show()
-
  }
 
     fun addNewNote(view: android.view.View) {
