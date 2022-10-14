@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity(), OnTapHandler {
     }
 
   override fun alertDialog(position: NoteEntity){
+
      val dialog = AlertDialog.Builder(this)
 
      dialog.setTitle(getString(R.string.alert_dialog_title))
