@@ -4,10 +4,10 @@
 <!--        <solid android:color="@color/cardview_dark_background"/>-->
 <!--        <size android:height="88dp" android:width="88dp" />-->
     <stroke
-        android:color="#388e3c"
+        android:color="@color/white"
         android:width="2dp"/>
     <corners
         android:radius="5dp"/>
     <solid
-        android:color="#ffff"/>
+        android:color="@color/btn_Blue"/>
     </shape>
