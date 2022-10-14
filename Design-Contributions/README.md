@@ -46,6 +46,7 @@ Make sure that you -
 2. Create a good and valid PR. Go through the [Code of Conduct](https://github.com/OpInCo-Community/HacktoberWeek/blob/main/CODE_OF_CONDUCT.md) and follow the templates to avoid spam.
 3. Start working on the pull request if and only if you are assigned the complimentary issue.
 4. Make sure to read the guidelines for contributing and contribute to the right segment, ie, **Contrbuting to Community Branding** or **Design contributions in Existing Projects**.
+5. Before finalising on your designs make sure you follow the given [template](https://github.com/OpInCo-Community/HacktoberWeek/blob/69a2ff2acf9275181924c4313e6380ae7398e3e3/Design-Contributions/Opinco%20Rebranding/Design%20Board.png)
 
 
 
