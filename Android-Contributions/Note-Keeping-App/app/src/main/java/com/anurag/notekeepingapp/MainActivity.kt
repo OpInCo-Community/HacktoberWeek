@@ -1,6 +1,7 @@
 package com.anurag.notekeepingapp
 
 import android.os.Bundle
+import android.widget.EditText
 import androidx.activity.viewModels
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
@@ -35,6 +36,7 @@ class MainActivity : AppCompatActivity(), OnTapHandler {
 
      val dialog = AlertDialog.Builder(this)
 
+
      dialog.setTitle(getString(R.string.alert_dialog_title))
      dialog.setIcon(R.drawable.ic_round_error_outline_24)
 
@@ -55,7 +57,10 @@ class MainActivity : AppCompatActivity(), OnTapHandler {
         val noteText = binding.addNoteView.text.toString()
         if (noteText.isNotEmpty()) {
             viewModel.insert(NoteEntity(note = noteText))
+            binding.addNoteView.text.clear()
         }
+
+
     }
 
 }
