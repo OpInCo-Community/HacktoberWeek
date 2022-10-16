@@ -1,17 +1,15 @@
 package com.example.memeshare
 
-import android.annotation.SuppressLint
+
 import android.content.Intent
 import android.graphics.drawable.Drawable
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Handler
 import android.view.View
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.android.volley.Request
-import com.android.volley.Response
 import com.android.volley.toolbox.JsonObjectRequest
-
-
 import com.android.volley.toolbox.Volley
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.DataSource
@@ -21,7 +19,6 @@ import com.bumptech.glide.request.target.Target
 import kotlinx.android.synthetic.main.activity_main.*
 
 
-
 class MainActivity : AppCompatActivity() {
 
     var currentImageUrl : String? = null
@@ -29,6 +26,14 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        Handler().postDelayed(
+            object :Runnable {
+                override fun run() {
+                    splash.visibility=View.GONE
+                    non_splash.visibility=View.VISIBLE
+                }
+            },2000
+        )
 
         loadMeme()
         nextMeme()
