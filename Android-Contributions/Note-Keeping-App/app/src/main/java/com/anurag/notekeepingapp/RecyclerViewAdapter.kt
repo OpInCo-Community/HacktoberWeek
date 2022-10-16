@@ -1,5 +1,7 @@
 package com.anurag.notekeepingapp
 
+import android.app.AlertDialog
+import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -29,10 +31,11 @@ class RecyclerViewAdapter(private val listener: OnTapHandler) :
 
         val viewHolder = ViewHolder(view)
         viewHolder.imageButton.setOnClickListener {
-            listener.onItemClick(dataSet[viewHolder.adapterPosition])
+            listener.alertDialog(dataSet[viewHolder.adapterPosition])
         }
         return viewHolder
     }
+
 
     // Replace the contents of a view (invoked by the layout manager)
     override fun onBindViewHolder(viewHolder: ViewHolder, position: Int) {
@@ -55,5 +58,5 @@ class RecyclerViewAdapter(private val listener: OnTapHandler) :
 }
 
 interface OnTapHandler {
-    fun onItemClick(note: NoteEntity)
+    fun alertDialog(note: NoteEntity)
 }
