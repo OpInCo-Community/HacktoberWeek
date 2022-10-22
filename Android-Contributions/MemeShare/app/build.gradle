@@ -50,4 +50,14 @@ dependencies {
 // Glide Library
     implementation 'com.github.bumptech.glide:glide:4.14.2'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.14.2'
+
+    //Splash Screen
+    implementation 'androidx.core:core-splashscreen:1.0.0'
+
+    //lottieAnimation
+    def lottieVersion = "4.1.0"
+    implementation "com.airbnb.android:lottie:$lottieVersion"
+
+    //SDP - a scalable size unit library
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
 }
