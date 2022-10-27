@@ -1,8 +1,8 @@
-# Meme Share
+# Jetpack Calculator
 
 ### App Descreption
 
-`Meme Share based on kotlin and using Volley Library`
+`Calculator based on kotlin and using Jetpack Compose, ViewModel`
 
 
 
@@ -12,7 +12,7 @@
 
 - Kotlin
 
-- Volley Library
+- Jepack Compose for UI
 
 ## **Contributing Guidelines**
 
