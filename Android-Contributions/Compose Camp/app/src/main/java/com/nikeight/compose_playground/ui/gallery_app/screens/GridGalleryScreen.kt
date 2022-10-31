@@ -18,8 +18,7 @@ import com.nikeight.compose_playground.ui.gallery_app.data.GalleryList
 fun GridGalleryScreen() {
     LazyVerticalGrid(
         modifier = Modifier
-            .padding(top = 4.dp, bottom = 8.dp)
-            .height(240.dp),
+            .padding(top = 4.dp, bottom = 8.dp),
         cells = GridCells.Adaptive(minSize = 100.dp),
         contentPadding = PaddingValues(4.dp),
     ) {

@@ -10,10 +10,14 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.nikeight.compose_playground.ui.gallery_app.screens.GalleryLandingScreen
+import com.nikeight.compose_playground.ui.gallery_app.screens.GalleryScreen
+import com.nikeight.compose_playground.ui.gallery_app.screens.GridGalleryScreen
 import com.nikeight.compose_playground.ui.phone_app.screens.PhoneAppMainScreen
 import com.nikeight.compose_playground.ui.theme.Compose_playgroundTheme
 
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
@@ -23,9 +27,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-//                    GalleryScreen()
-//                    GridGalleryScreen()
-                    PhoneAppMainScreen()
+                    GalleryLandingScreen()
                 }
             }
         }
